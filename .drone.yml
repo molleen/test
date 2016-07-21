@@ -1,0 +1,7 @@
+clone:
+  tags: true
+
+build:
+  image: alpine:3.4
+  commands:
+    - env
